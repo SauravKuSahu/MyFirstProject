@@ -2,6 +2,11 @@ package collection;
 
 import java.util.ArrayList;
 
+/*Dynamic in Nature
+
+
+*/
+
 public class ArrayListConcepts {
 
 	public static void main(String[] args) {
@@ -15,8 +20,8 @@ public class ArrayListConcepts {
 		
 		int size = al.size();
 		System.out.println(size);
-		System.out.println(al.get(0));
-
+		System.out.println(al.get(0));	
+		
 	}
 
 }
