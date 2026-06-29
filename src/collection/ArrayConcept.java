@@ -10,7 +10,7 @@ public class ArrayConcept {
 		
 		int[] arr= new int[5]; 
 		arr[0]= 1;
-		arr[4]= 4;
+		arr[4]= 5;
 		System.out.println(arr.length);
 		//System.out.println(arr[5]);  //ArrayIndexOutOfBoundsException
 		
